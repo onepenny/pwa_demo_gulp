@@ -14,5 +14,5 @@ python3 -m http.server 3004
 
 # TODO
 - 更精细的缓存控制
-饿了么pwa升级实践 4步骤(初始url预取_?, 渲染_提速首次渲染与首次可交互时间_preload?, 关键路由即AppShell预取_prefetch?, lazy-load剩下的路由资源)
+- 饿了么pwa升级实践4步骤(初始url预取_?, 渲染_提速首次渲染与首次可交互时间_preload?, 关键路由即AppShell预取_prefetch?, lazy-load剩下的路由资源)
 
