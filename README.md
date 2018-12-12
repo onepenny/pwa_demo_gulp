@@ -3,8 +3,8 @@
 # 演示功能
 gulp使用workbox 实现pwa
 # 关键内容
-gulpfile.babel.js中`service-worker`task 1 2
-app/sw.js中 1 2
+- gulpfile.babel.js中`service-worker`task 1 2
+- app/sw.js中 1 2
 
 # Usage
 ```sh
