@@ -1,4 +1,4 @@
-# workbox demo for gulp
+# pwa demo for gulp
 
 # 演示功能
 gulp使用workbox 实现pwa
